@@ -23,6 +23,7 @@ function drawBird(x, y, w, h, color) {
   ctx.fillStyle = color
   ctx.fillRect(x, y, w, h)
 }
+
 function drawPipe(x, y, w, h, color) {
   ctx.fillStyle = color
   ctx.fillRect(x, y, w, h)
